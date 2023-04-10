@@ -1,1 +1,2 @@
 # Genome-Based-Classification-of-Skin-Cancer-and-Prediction-through-Tensor-Flow-using-CNN
+Genome classification for skin cancer prediction can be performed using Convolutional Neural Networks (CNNs) implemented in Tensor Flow.CNNs are well-suited for image classification tasks such as identifying cancerous cells in skin tissue samples.The Tensor Flow framework provides a convenient and efficient way to build, train, and evaluate CNN models for genome classification to get a better accuracy and greater prediction chances
